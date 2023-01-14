@@ -7,9 +7,7 @@ Axios Request
 REST-full api 
 
 ## Instal requirement
-Run `npm i nodemon -g`
-#
-Run `npm i`
+Run `npm i nodemon -g` to instal nodemon  and Run `npm i` to instal all project dependencies.
 
 
 ## Development server
